@@ -1,0 +1,66 @@
+.pg-body{
+    border-style: solid;
+    border-color:  orange ;
+    margin: 1em;
+    padding: 1em;
+    background-color: silver;
+    height: 930px;
+}
+
+.cv-name{
+    color: red;
+    border-bottom: solid;
+    border-color: blue;
+    padding-bottom: 0em;
+}
+.listprop {
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#bd-lists {
+    background-color: rgb(163, 143, 105);
+    padding: 0.1em 1em;
+    float: left;
+    margin: 25px 0px;
+    width: 800px;
+    
+
+}
+
+#spans {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    height: 749px;
+    width: 300px;
+    float: right;
+    padding: 0.1em 1em;
+    margin: 25px auto;
+    background-color:rgb(177, 131, 47) ;
+
+}
+
+.headers {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(5, 102, 102);
+}
+
+#section-dim {
+    float: right;
+    
+}
+
+#audio{
+    margin-left: 2em;
+}
+
+#addrs {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    margin-bottom: 0;
+}
+
+
+
+
